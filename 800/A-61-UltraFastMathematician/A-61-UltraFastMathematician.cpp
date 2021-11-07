@@ -4,9 +4,7 @@
 
 using namespace std;
 
-char XOR(char a, char b){
-	return (a+b)%2 ;
-}
+
 
 int main(){
 	string a,b,res;
